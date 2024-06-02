@@ -4,10 +4,10 @@ Welcome to the Data Science Learning Materials repository! This repository conta
 
 ## Table of Contents
 
-1. [Python](Python/README.md)
-2. [NumPy](Numpy/README.md)
-3. [Pandas](Pandas/README.md)
-4. [Matplotlib](Matplotlib/README.md)
+1. [Python](Python/Readme.md)
+2. [NumPy](Numpy/Readme.md)
+3. [Pandas](Pandas/Readme.md)
+4. [Matplotlib](Matplotlib/Readme.md)
 
 ## How to Use This Repository
 
@@ -29,7 +29,3 @@ To contribute:
 3. Commit your changes (`git commit -am 'Add new material'`)
 4. Push to the branch (`git push origin feature/new-material`)
 5. Create a new Pull Request
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
