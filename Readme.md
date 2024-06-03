@@ -8,6 +8,7 @@ Welcome to the Data Science Learning Materials repository! This repository conta
 2. [NumPy](Numpy/README.md)
 3. [Pandas](Pandas/README.md)
 4. [Matplotlib](Matplotlib/README.md)
+5. [Supervised Learning](Supervised%20Learning/Readme.md)
 
 ## How to Use This Repository
 
