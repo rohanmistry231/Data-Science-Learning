@@ -1,6 +1,11 @@
 
 # Variables in Python
-
+Hello=0
+if Hello==0:
+    print("Hello")
+else:
+    print("No Hello")
+    
 first_name = 'Asabeneh'
 last_name = 'Yetayeh'
 country = 'Finland'

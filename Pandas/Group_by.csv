@@ -1,0 +1,8 @@
+temperature,windspeed,event
+20,10,No event
+-99999,20,No event
+30,-99999,Event
+-99999,-88888,No event
+40,15,No event
+50,25,No event
+60,30,No event
