@@ -1,0 +1,166 @@
+{
+  "name": "email service providers abuse report",
+  "providers": [
+    {
+      "name": "amazonses",
+      "email": "e-mail-abuse@amazon.com"
+    },
+    {
+      "name": "cheetahdigital",
+      "email": "abuse@cheetahdigital.com",
+      "policy": "https://www.cheetahdigital.com/anti-spam-policy"
+    },
+    {
+      "name": "coresender",
+      "form": "https://coresender.com/contact",
+      "policy": "https://coresender.com/legal/antispam"
+    },
+    {
+      "name": "Apsis",
+      "email": "abuse@apsis.com",
+      "policy": "https://apsis.com/no-en/about-us/policies/apsis-anti-spam-policy"
+    },
+    {
+      "name": "emailable",
+      "email": "hello@emailable.com",
+      "policy": "https://emailable.com/anti-spam-policy/"
+    },
+    {
+      "name": "emailmanager",
+      "email": "abuso@emailmanager.com",
+      "policy": "https://www.emailmanager.com/en/site/198/antispam-policy.html"
+    },
+    {
+      "name": "ExactTarget",
+      "email": "abuse@exacttarget.com",
+      "policy": "https://www.salesforce.com/products/marketing-cloud/sfmc/marketing-cloud-anti-spam-policy/"
+    },
+    {
+      "name": "freshmail",
+      "email": "support@freshmail.com",
+      "form": "https://freshmail.com/contact/#report-spam",
+      "policy": "https://freshmail.com/anti-spam-policy/"
+    },
+    {
+      "name": "getresponse",
+      "email": "abuse@getresponse.com",
+      "policy": "https://www.getresponse.com/legal/antispam"
+    },
+    {
+      "name": "gmail",
+      "form": "https://support.google.com/mail/contact/abuse",
+      "policy": "https://support.google.com/a/answer/178266"
+    },
+    {
+      "name": "klaviyo",
+      "email": "abuse@klaviyo.com",
+      "policy": "https://www.klaviyo.com/legal/acceptable-use-policy"
+    },
+    {
+      "name": "mailchimp",
+      "email": "abuse@mailchimp.com",
+      "form": "https://mailchimp.com/contact/abuse/",
+      "policy": "https://mailchimp.com/en/help/anti-spam-requirements-for-email/"
+    },
+    {
+      "name": "mailersend",
+      "email": "abuse@mailersend.com",
+      "form": "https://www.mailersend.com/report-abuse"
+    },
+    {
+      "name": "mailgun",
+      "email": "abuse@mailgun.com",
+      "policy": "https://www.mailgun.com/aup/"
+    },
+    {
+      "name": "mailigen",
+      "form": "https://www.mailigen.com/about/abuse",
+      "policy": "https://www.mailigen.com/about/anti-spam-policy"
+    },
+    {
+      "name": "mailjet",
+      "email": "abuse@mailjet.com",
+      "policy": "https://www.mailjet.com/sending-policy/"
+    },
+    {
+      "name": "mailpoet",
+      "email": "abuse@mailpoet.com",
+      "policy": "https://www.mailpoet.com/anti-spam-policy/"
+    },
+    {
+      "name": "mailup",
+      "email": "abuse@mailup.com",
+      "form": "https://www.mailup.com/contacts/form-spam/",
+      "policy": "https://www.mailup.com/anti-spam-policy/"
+    },
+    {
+      "name": "mapp",
+      "email": "abuse@mapp.com",
+      "policy": "https://mapp.com/acceptable-use-policy/"
+    },   
+    {
+      "name": "marketo",
+      "email": "abuse@marketo.com",
+      "policy": "https://www.adobe.com/legal/terms/aup.html"
+    },
+    {
+      "name": "postmark",
+      "email": "abuse@postmarkapp.com"
+    },
+    {
+      "name": "rapidmail",
+      "email": "abuse@rapidmail.de"
+    },
+    {
+      "name": "salesforce marketing cloud",
+      "email": "abuse@salesforce.com",
+      "policy": "https://www.salesforce.com/company/abuse/"
+    },
+    {
+      "name": "selligent",
+      "email": "abuse@selligent.com",
+      "policy": "https://www.selligent.com/anti-spam-policy/"
+    },
+    {
+      "name": "sender",
+      "email": "abuse@sender.net",
+      "policy": "https://www.sender.net/anti-spam-policy/"
+    },
+    {
+      "name": "sendinblue",
+      "email": "abuse@sendinblue.com",
+      "form": "https://www.sendinblue.com/contact/#abuse",
+      "policy": "https://www.sendinblue.com/legal/antispampolicy/"
+    },
+    {
+      "name": "sendgrid",
+      "email": "abuse@sendgrid.com"
+    },
+    {
+      "name": "sendlane",
+      "email": "abuse@sendlane.com",
+      "form": "https://www.sendlane.com/report-abuse",
+      "policy": "https://help.sendlane.com/article/219-can-spam-act-and-sendlane"
+    },
+    {
+      "name": "turboSMTP",
+      "email": "abuse@serversmtp.com",
+      "policy": "https://serversmtp.com/anti-spam-policy/"
+    },
+    {
+      "name": "smartfocus",
+      "email": "abuse@smartfocus.com",
+      "policy": "https://www.smartfocus.com/en/anti-spam-policy"
+    },
+    {
+      "name": "smtp",
+      "email": "abuse@smtp.com",
+      "policy": "https://www.smtp.com/policies/acceptable-use-policy/"
+    },
+    {
+      "name": "zoho",
+      "email": "abuse@zoho.com",
+      "policy": "https://www.zoho.com/policy.html"
+    }
+  ]
+}

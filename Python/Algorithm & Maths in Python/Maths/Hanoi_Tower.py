@@ -18,6 +18,3 @@ def HanoiTower(n,source,dest,storage):
         HanoiTower(n-1,source,storage,dest)
         print(f"Move disk from {source} to {dest}")
         HanoiTower(n-1,storage,dest,source)
-        
-        
-
