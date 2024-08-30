@@ -1,0 +1,51 @@
+.btn{
+    background-color: blue;
+    color:cornsilk;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+    border: none;
+    border-radius: 10px;
+    margin: 20px 50px;
+    cursor: pointer;
+}
+.btn:hover{
+    font-weight: bolder;
+}
+.main{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: honeydew;
+    width: 350px;
+    height: 300px;
+    margin-top: 30px;
+}
+.main{
+    text-align: center;
+}
+
+.main p{
+    border: 2px solid #fff;
+    background-color: skyblue;
+    padding: 2px;
+    font-weight: 700;
+}
+
+.main h1{
+    font-size: 24px;
+}
+
+.main h2{
+    text-decoration: underline;
+}
+
+.main a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.main a:hover{
+    font-weight: 900;
+    color:black;
+}

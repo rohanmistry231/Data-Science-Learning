@@ -31,6 +31,9 @@ Personal notes and insights on Python programming. This includes tips, tricks, a
 ### 9. [Symbolic Computation in Python](./Symbolic_Computation_in_Python)
 Explore symbolic computation techniques using Python. This includes solving equations, algebraic manipulation, and other symbolic math tasks.
 
+### 10. [Python Projects](./Python_Projects)
+Explore Various Python Projects to get Actual feel of Python in Real World Problems.
+
 ## How to Use
 
 1. **Navigate to the specific folder** for the topic you are interested in.

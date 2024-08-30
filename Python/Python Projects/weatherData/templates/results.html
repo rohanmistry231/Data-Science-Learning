@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}">
+    <title>weather data</title>
+</head>
+<body>
+    
+    <div  class='main'>
+   
+        <h1>Weather in {{location}} - {{ country}}</h1>
+        <h2>{{ temp }} ° C </h2>
+        <h3>Feels Like: {{ feels_like }}° C</h3>
+        <p>{{main}}</p>
+
+        <h4>Min: {{ min_temp }} -  Max: {{ max_temp }}</h4>  
+        
+
+      
+        <div><small><a href="{{ url_for('weather_data')}}">Go Back</a></small></div>
+    </div>
+
+
+    
+
+</body>
+</html>
