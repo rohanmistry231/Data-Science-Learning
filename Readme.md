@@ -4,11 +4,10 @@ Welcome to the Data Science Learning Materials repository! This repository conta
 
 ## Table of Contents
 
-1. [Python](Python/README.md)
-2. [NumPy](Numpy/README.md)
-3. [Pandas](Pandas/README.md)
-4. [Matplotlib](Matplotlib/README.md)
-5. [Supervised Learning](Supervised%20Learning/Readme.md)
+1. [Python](Python/Readme.md)
+2. [NumPy](Numpy/Readme.md)
+3. [Pandas](Pandas/Readme.md)
+4. [Matplotlib](Matplotlib/Readme.md)
 
 ## How to Use This Repository
 
